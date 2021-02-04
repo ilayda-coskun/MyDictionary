@@ -4,8 +4,6 @@ namespace MyDictionary
 {
     class Program
     {
-        private const string V = "";
-
         static void Main(string[] args)
         {
             MyList<int, string> customer = new MyList<int, string>();
